@@ -8,14 +8,14 @@
 Install the module with: `npm install json-tpl`
 
 ```js
-var json-tpl = require('json-tpl'),
+var jsonTpl = require('json-tpl'),
     tpl = {
         id:         { type: 'number' },
         name:       { type: 'string' },
         avatar_url: { type: 'string', default: null }
     };
 
-json-tpl.parse(tpl, {
+jsonTpl.parse(tpl, {
     id: 1,
     name: 'Fran'    
 });
