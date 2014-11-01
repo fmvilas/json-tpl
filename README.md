@@ -41,3 +41,6 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 Copyright (c) 2014 Francisco Méndez Vilas  
 Licensed under the MIT license.
+
+
+[![Analytics](https://ga-beacon.appspot.com/UA-56319615-1/json-tpl/readme)](https://github.com/fmvilas/ga-beacon)
