@@ -43,4 +43,4 @@ Copyright (c) 2014 Francisco Méndez Vilas
 Licensed under the MIT license.
 
 
-[![Analytics](https://ga-beacon.appspot.com/UA-56319615-1/json-tpl/readme)](https://github.com/fmvilas/ga-beacon)
+[![Analytics](https://ga-beacon.appspot.com/UA-56319615-1/json-tpl/readme)](https://github.com/fmvilas/json-tpl)
