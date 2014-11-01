@@ -6,7 +6,7 @@ var assert = require('assert'),
   user_template,
   user_data;
 
-describe('UserTemplate', function() {
+describe('jsonTpl', function() {
   beforeEach(function() {
     user_template = {
       id:         { type: 'number' },
