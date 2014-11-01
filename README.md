@@ -8,19 +8,18 @@
 Install the module with: `npm install json-tpl`
 
 ```js
-var json-tpl = require('json-tpl');
-json-tpl.awesome(); // "awesome"
+var json-tpl = require('json-tpl'),
+    tpl = {
+        id:         { type: 'number' },
+        name:       { type: 'string' },
+        avatar_url: { type: 'string', default: null }
+    };
+
+json-tpl.parse(tpl, {
+    id: 1,
+    name: 'Fran'    
+});
 ```
-
-Install with cli command
-
-```sh
-$ npm install -g json-tpl
-$ json-tpl --help
-$ json-tpl --version
-```
-
-
 
 
 ## Documentation
