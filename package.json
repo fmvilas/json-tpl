@@ -1,6 +1,6 @@
 {
   "name": "json-tpl",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "lib/json-tpl.js",
   "description": "A module to define templates for JSON data.",
   
